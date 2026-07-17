@@ -3,7 +3,7 @@
 
 A six-question style quiz that merges **seasonal colour analysis** and **generative outfit styling** into a single, one-shot Claude API call.
 
--**https://claude.ai/public/artifacts/6e1a02cf-bff6-436d-b651-fa76da919be9**` – Fully self-contained UI (HTML/CSS/JS) built to run as a Claude.ai Artifact.
+https://claude.ai/public/artifacts/6e1a02cf-bff6-436d-b651-fa76da919be9 – Fully self-contained UI (HTML/CSS/JS) built to run as a Claude.ai Artifact.
 - **`prompt-engineering-breakdown.pdf`** – The exact system prompt used, plus annotated design decisions (JSON schema, tonal guardrails, and edge-case handling).
 
 ## 🔍 What makes this prompt engineering different
